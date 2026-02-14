@@ -1,5 +1,9 @@
 # 📊 Análise de Dados de Manutenção Eletrônica
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-green)
+![Status](https://img.shields.io/badge/Status-Completo-success)
+
 ## 🎯 Objetivo do Projeto
 Analisar padrões de falhas em equipamentos de mobilidade urbana para otimizar processos de manutenção preventiva e reduzir custos operacionais.
 
