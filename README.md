@@ -110,8 +110,7 @@ python analise_manutencao.py
 
 4. **Visualizar resultados:**
 - Análise completa será exibida no terminal
-- Dashboard salvo como `analise_manutencao_dashboard.png`
-
+- [Dashboard de Análise](./analise_manutencao_dashboard.png)
 ## 👤 Autor
 **Mário Sérgio Inácio Júnior**
 - LinkedIn: [Mário Sérgio Inácio Júnior](https://linkedin.com/in/mário-sérgio-inácio-júnior-026705149)
